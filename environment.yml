@@ -1,0 +1,9 @@
+
+name: misc-environment
+channels:
+  - conda-forge
+dependencies:
+  - cctbx
+  - numpy
+  - matplotlib
+  - numericalunits
